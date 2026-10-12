@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\font_plex_semibold.ttf.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\font\\plex_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\font_pacifico.ttf.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\font\\pacifico.ttf"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\font_plex_medium.ttf.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\font\\plex_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\xml_slip_widget_info.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\xml\\slip_widget_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\font_plex_regular.ttf.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\font\\plex_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\font_plex_bold.ttf.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\font\\plex_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\drawable_ic_launcher_monochrome.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\drawable\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\drawable_ic_notification.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\drawable\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-debug-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\teeny\\.gradle\\daemon\\9.6.0\\com.tarit.slipledger.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.tarit.slipledger.app-debug-67:/drawable_widget_bg.xml.flat",
+        "source": "com.tarit.slipledger.app-main-69:/drawable/widget_bg.xml"
+    }
+]

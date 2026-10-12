@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_launcher_monochrome
+drawable ic_notification
+drawable widget_bg
+font pacifico
+font plex_bold
+font plex_medium
+font plex_regular
+font plex_semibold
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string widget_description
+xml slip_widget_info

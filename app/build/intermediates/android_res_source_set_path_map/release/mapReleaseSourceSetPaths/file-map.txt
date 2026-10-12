@@ -1,0 +1,9 @@
+com.tarit.slipledger.app-pngs-0 C:\Users\teeny\SlipLedger\app\build\generated\res\pngs\release
+com.tarit.slipledger.app-resValues-1 C:\Users\teeny\SlipLedger\app\build\generated\res\resValues\release
+com.tarit.slipledger.app-updated_navigation_xml-2 C:\Users\teeny\SlipLedger\app\build\generated\updated_navigation_xml\release
+com.tarit.slipledger.app-packageReleaseResources-3 C:\Users\teeny\SlipLedger\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.tarit.slipledger.app-packageReleaseResources-4 C:\Users\teeny\SlipLedger\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.tarit.slipledger.app-release-5 C:\Users\teeny\SlipLedger\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.tarit.slipledger.app-main-6 C:\Users\teeny\SlipLedger\app\src\main\res
+com.tarit.slipledger.app-release-7 C:\Users\teeny\SlipLedger\app\src\release\res
+gradleHome-0 C:\Users\teeny\.gradle

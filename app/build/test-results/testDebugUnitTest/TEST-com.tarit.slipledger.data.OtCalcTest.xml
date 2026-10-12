@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tarit.slipledger.data.OtCalcTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-04T07:44:17.741Z" hostname="TARIT" time="0.042">
+  <properties/>
+  <testcase name="specialHolidayRates" classname="com.tarit.slipledger.data.OtCalcTest" time="0.011"/>
+  <testcase name="cutoffPeriodSpansTwoMonths" classname="com.tarit.slipledger.data.OtCalcTest" time="0.011"/>
+  <testcase name="autoTaxBands" classname="com.tarit.slipledger.data.OtCalcTest" time="0.011"/>
+  <testcase name="dayOffSplitsAtEightHoursAndCapsAtMax" classname="com.tarit.slipledger.data.OtCalcTest" time="0.0"/>
+  <testcase name="weekdayOtAndMeal" classname="com.tarit.slipledger.data.OtCalcTest" time="0.0"/>
+  <testcase name="cutoffMovesOtIntoNextPayslip" classname="com.tarit.slipledger.data.OtCalcTest" time="0.003"/>
+  <testcase name="hourlyRate" classname="com.tarit.slipledger.data.OtCalcTest" time="0.0"/>
+  <testcase name="emptyMonthSummary" classname="com.tarit.slipledger.data.OtCalcTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

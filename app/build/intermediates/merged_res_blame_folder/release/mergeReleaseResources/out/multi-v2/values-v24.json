@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tarit.slipledger.app-mergeReleaseResources-65:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\teeny\\.gradle\\caches\\9.6.0\\transforms\\81ad1ac3fb733678f4dcfdfe1aaa193a\\transformed\\appcompat-1.6.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}

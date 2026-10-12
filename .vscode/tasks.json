@@ -1,0 +1,44 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run on emulator",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass -File ${workspaceFolder}/dev.ps1 run",
+            "group": { "kind": "build", "isDefault": true },
+            "problemMatcher": []
+        },
+        {
+            "label": "Start emulator",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass -File ${workspaceFolder}/dev.ps1 emulator",
+            "problemMatcher": []
+        },
+        {
+            "label": "Copy sample slips to emulator",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass -File ${workspaceFolder}/dev.ps1 slips",
+            "problemMatcher": []
+        },
+        {
+            "label": "Show app log",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass -File ${workspaceFolder}/dev.ps1 log",
+            "isBackground": true,
+            "problemMatcher": []
+        },
+        {
+            "label": "Unit tests",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass -File ${workspaceFolder}/dev.ps1 test",
+            "group": "test",
+            "problemMatcher": []
+        },
+        {
+            "label": "Build APK for phone",
+            "type": "shell",
+            "command": "powershell -ExecutionPolicy Bypass -File ${workspaceFolder}/dev.ps1 release",
+            "problemMatcher": []
+        }
+    ]
+}

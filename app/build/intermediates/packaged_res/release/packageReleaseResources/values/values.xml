@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joddiwa</string>
+    <string name="widget_description">ยอดใช้จ่ายเดือนนี้และวันนี้ พร้อมปุ่มสแกนสลิป</string>
+</resources>
